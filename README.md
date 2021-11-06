@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eholsin92 (Eric Holsinger)
+- 👋 Hi, I’m @Ericholsinger92 (Eric Holsinger)
 - 👀 I’m interested in cyber security and SOC monitoring. 
 - 🌱 I’m currently learning the ins-and-outs of cyber security, both red and blue team. 
 - 📫 How to reach me - ericholsinger92@gmail.com or https://www.linkedin.com/in/eric-holsinger
